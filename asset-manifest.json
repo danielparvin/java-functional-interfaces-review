@@ -1,15 +1,39 @@
 {
   "files": {
-    "main.css": "/java-functional-interfaces-review/static/css/main.073c9b0a.css",
-    "main.js": "/java-functional-interfaces-review/static/js/main.0a855053.js",
+    "main.css": "/java-functional-interfaces-review/static/css/main.3f282b50.css",
+    "main.js": "/java-functional-interfaces-review/static/js/main.5b99fc21.js",
     "static/js/787.665f9134.chunk.js": "/java-functional-interfaces-review/static/js/787.665f9134.chunk.js",
+    "static/media/DejaVuLGCSans.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSans.1f0fcbc2623ed203619f.woff",
+    "static/media/DejaVuLGCSans-Bold.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSans-Bold.0efa2062cf6e193e9435.woff",
+    "static/media/DejaVuLGCSans-BoldOblique.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSans-BoldOblique.d79f76c8567b9d2c8a51.woff",
+    "static/media/DejaVuLGCSans-Oblique.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSans-Oblique.1e42daf5fe6072bc0880.woff",
+    "static/media/DejaVuLGCSans.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSans.fe387ca9f18a8dd4f376.woff2",
+    "static/media/DejaVuLGCSans-BoldOblique.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSans-BoldOblique.52d5732f93ce2d204a65.woff2",
+    "static/media/DejaVuLGCSans-Bold.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSans-Bold.1a9b1ee734aefd08b276.woff2",
+    "static/media/DejaVuLGCSans-Oblique.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSans-Oblique.8f1c5c0cea5bc222289f.woff2",
+    "static/media/DejaVuLGCSerif.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSerif.d126bfc8613abbbe6260.woff",
+    "static/media/DejaVuLGCSansMono.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono.253958ed6ad0e8989055.woff",
+    "static/media/DejaVuLGCSerif-Bold.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSerif-Bold.1bd8b712502fe8ab6c4e.woff",
+    "static/media/DejaVuLGCSerif-Italic.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSerif-Italic.47171b12c30e2eaa456a.woff",
+    "static/media/DejaVuLGCSansMono-Bold.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono-Bold.535b2d52c68775286966.woff",
+    "static/media/DejaVuLGCSerif-BoldItalic.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSerif-BoldItalic.3a15ec71bc0985923596.woff",
+    "static/media/DejaVuLGCSansMono-BoldOblique.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono-BoldOblique.1c9ebf0529ee5cc7b204.woff",
+    "static/media/DejaVuLGCSansMono-Oblique.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono-Oblique.b55f54a7b4e8bcc1aaf1.woff",
+    "static/media/DejaVuLGCSerif.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSerif.11c797fa5c6e48d60cc8.woff2",
+    "static/media/DejaVuLGCSansMono.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono.a2b556af62d32a4d64bc.woff2",
+    "static/media/DejaVuLGCSansMono-Bold.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono-Bold.341ba666e37cd1d24f4a.woff2",
+    "static/media/DejaVuLGCSerif-Italic.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSerif-Italic.de8ad94397cf8b2cd7b9.woff2",
+    "static/media/DejaVuLGCSerif-BoldItalic.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSerif-BoldItalic.374458f78d2e8e7633b8.woff2",
+    "static/media/DejaVuLGCSerif-Bold.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSerif-Bold.bd725f50b1d6a3a61d15.woff2",
+    "static/media/DejaVuLGCSansMono-Oblique.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono-Oblique.33cf90dd1b44490741c9.woff2",
+    "static/media/DejaVuLGCSansMono-BoldOblique.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono-BoldOblique.f58c5f0d78a818a090b8.woff2",
     "index.html": "/java-functional-interfaces-review/index.html",
-    "main.073c9b0a.css.map": "/java-functional-interfaces-review/static/css/main.073c9b0a.css.map",
-    "main.0a855053.js.map": "/java-functional-interfaces-review/static/js/main.0a855053.js.map",
+    "main.3f282b50.css.map": "/java-functional-interfaces-review/static/css/main.3f282b50.css.map",
+    "main.5b99fc21.js.map": "/java-functional-interfaces-review/static/js/main.5b99fc21.js.map",
     "787.665f9134.chunk.js.map": "/java-functional-interfaces-review/static/js/787.665f9134.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0a855053.js"
+    "static/css/main.3f282b50.css",
+    "static/js/main.5b99fc21.js"
   ]
 }
