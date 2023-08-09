@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/java-functional-interfaces-review/static/css/main.073c9b0a.css",
+    "main.js": "/java-functional-interfaces-review/static/js/main.f70406d8.js",
+    "static/js/787.665f9134.chunk.js": "/java-functional-interfaces-review/static/js/787.665f9134.chunk.js",
+    "static/media/logo.svg": "/java-functional-interfaces-review/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/java-functional-interfaces-review/index.html",
+    "main.073c9b0a.css.map": "/java-functional-interfaces-review/static/css/main.073c9b0a.css.map",
+    "main.f70406d8.js.map": "/java-functional-interfaces-review/static/js/main.f70406d8.js.map",
+    "787.665f9134.chunk.js.map": "/java-functional-interfaces-review/static/js/787.665f9134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f70406d8.js"
+  ]
+}
