@@ -8,4 +8,4 @@ Thanks to the author of [this article](https://blog.logrocket.com/deploying-reac
 In Development
 
 ## To-do List
-Design and implement core functionality.
+- Design and implement core functionality.

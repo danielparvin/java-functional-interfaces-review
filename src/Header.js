@@ -10,7 +10,7 @@ const Header = () => {
 					</div>
 					<div class="about-language">
 						<div>
-							<strong>java.util.function Review</strong>
+							<strong>Review of java.util.function</strong>
 						</div>
 					</div>
 					<ul id="navbar-top-firstrow" class="nav-list" title="Navigation">
