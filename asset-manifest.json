@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/java-functional-interfaces-review/static/css/main.3f282b50.css",
-    "main.js": "/java-functional-interfaces-review/static/js/main.17fb7d86.js",
+    "main.js": "/java-functional-interfaces-review/static/js/main.0f6e2f3a.js",
     "static/js/787.665f9134.chunk.js": "/java-functional-interfaces-review/static/js/787.665f9134.chunk.js",
     "static/media/DejaVuLGCSans.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSans.1f0fcbc2623ed203619f.woff",
     "static/media/DejaVuLGCSans-Bold.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSans-Bold.0efa2062cf6e193e9435.woff",
@@ -29,11 +29,11 @@
     "static/media/DejaVuLGCSansMono-BoldOblique.woff2": "/java-functional-interfaces-review/static/media/DejaVuLGCSansMono-BoldOblique.f58c5f0d78a818a090b8.woff2",
     "index.html": "/java-functional-interfaces-review/index.html",
     "main.3f282b50.css.map": "/java-functional-interfaces-review/static/css/main.3f282b50.css.map",
-    "main.17fb7d86.js.map": "/java-functional-interfaces-review/static/js/main.17fb7d86.js.map",
+    "main.0f6e2f3a.js.map": "/java-functional-interfaces-review/static/js/main.0f6e2f3a.js.map",
     "787.665f9134.chunk.js.map": "/java-functional-interfaces-review/static/js/787.665f9134.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f282b50.css",
-    "static/js/main.17fb7d86.js"
+    "static/js/main.0f6e2f3a.js"
   ]
 }
