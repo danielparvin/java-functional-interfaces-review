@@ -6,17 +6,15 @@ import Footer from "./Footer";
 import Main from "./Main";
 
 function App() {
-	useEffect(() => {
-		document.title = "Review of java.util.function";
-	}, []);
-	
-  return (
-	<>
-		<Header />
-		<Main />
-		<Footer />
-	</>
-  );
+	return (
+		<div class="flex-box">
+			<Header />
+			<div class="flex-content">
+				<Main />
+				<Footer />
+			</div>
+		</div>
+	);
 }
 
 export default App;

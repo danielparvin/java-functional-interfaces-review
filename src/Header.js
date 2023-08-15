@@ -15,17 +15,12 @@ const Header = () => {
 					</div>
 					<ul id="navbar-top-firstrow" class="nav-list" title="Navigation">
 						<li class="nav-bar-cell1-rev">Overview</li>
-						<li><a href="overview-tree.html">Tree</a></li> {/* TODO Implement useful links here.*/}
-						<li><a href="preview-list.html">Preview</a></li>
-						<li><a href="new-list.html">New</a></li>
-						<li><a href="deprecated-list.html">Deprecated</a></li>
-						<li><a href="index-files/index-1.html">Index</a></li>
-						<li><a href="help-doc.html#overview">Help</a></li>
+						<li><a href="about.html">About</a></li> {/* TODO Implement useful links here.*/}
 					</ul>
 				</div>
 				<div class="sub-nav">
+				<a id="skip.navbar.top"></a>
 				</div>
-				<span class="skip-nav" id="skip-navbar-top"></span> {/* TODO Determine what this is and whether it's necessary.*/}
 			</nav>
 		</header>
 	)

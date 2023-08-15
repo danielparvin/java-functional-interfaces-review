@@ -1,10 +1,12 @@
-import { Link } from "react-router-dom";
-import FunctionalInterfaces from "./FunctionalInterfaces";
+import Table from "./Table";
 
 const Main = () => {
 	return (
 		<div class="main">
-			<p>Test</p>
+			<div class="description">
+				Use this to visualize the functional interfaces of the java.util.function package by their inputs and outputs.
+			</div>
+			<Table />
 		</div>
 	)
 }

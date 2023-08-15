@@ -1,7 +1,7 @@
 const FunctionalInterfaces = [
 	{name: "BiConsumer", inputs: ["T", "U"], output: "void", method: "accept", primitiveSpecializationTypes: []},
 	{name: "BiFunction", inputs: ["T", "U"], output: "R", method: "apply", primitiveSpecializationTypes: []},
-	{name: "BinaryOperator", inputs: ["T"], output: "T", method: "apply", primitiveSpecializationTypes: []},
+	{name: "BinaryOperator", inputs: ["T", "T"], output: "T", method: "apply", primitiveSpecializationTypes: []},
 	{name: "BiPredicate", inputs: ["T", "U"], output: "boolean", method: "test", primitiveSpecializationTypes: []},
 	{name: "BooleanSupplier", inputs: [], output: "boolean", method: "getAsBoolean", primitiveSpecializationTypes: ["boolean"]},
 	{name: "Consumer", inputs: ["T"], output: "void", method: "accept", primitiveSpecializationTypes: []},
