@@ -59,6 +59,11 @@ ul.nav-list li {
 	margin-top: 14px;
 }
 
+.description {
+	font-size: 14px;
+	margin: 0 10px 5px 0;
+}
+
 .flex-box {
     position: fixed;
     display: flex;
@@ -78,6 +83,10 @@ ul.nav-list li {
 
 .legal-copy {
     margin-left:.5em;
+}
+
+.main {
+	padding: 10px 20px;
 }
 
 .nav-bar-cell1-rev {
@@ -101,15 +110,19 @@ ul.nav-list li {
 	font-size: 12px;
 }
 
+.title {
+	color: #2c4557;
+	margin: 10px 0;
+}
+
 .top-nav {
 	background-color: #4D7A97;
 	color: #FFFFFF;
 	float: left;
-	padding: 0;
+	padding: 10px 0;
 	width: 100%;
 	clear: right;
 	min-height: 2.8em;
-	padding-top: 10px;
 	overflow: hidden;
 	font-size: 12px;
 }

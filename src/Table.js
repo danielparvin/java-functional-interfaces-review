@@ -1,10 +1,11 @@
 import FunctionalInterfaces from "./FunctionalInterfaces";
 import FilterableTable from "react-filterable-table";
+import "./filterable-table.css";
 
 const fields = [
 	{name: "name", displayName: "Interface", sortable: true, inputFilterable: true},
 	//{inputs: "inputs", displayName: "Inputs", sortable: true},
-	//{method: "method", displayName: "Method", sortable: true, exactFilterable: true}
+	{name: "method", displayName: "Method", sortable: true, exactFilterable: true}
 	//{primitiveSpecializationTypes: "primitiveSpecializationTypes", displayName: "Primitive Specialization Types"}
 ]
 
