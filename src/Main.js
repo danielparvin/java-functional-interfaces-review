@@ -2,7 +2,7 @@ import Table from "./Table";
 
 const Main = () => {
 	return (
-		<div class="main">
+		<div class="main" id="main">
 			<div class="header">
 				<h1 class="title">
 					Java's Standard Functional Interfaces

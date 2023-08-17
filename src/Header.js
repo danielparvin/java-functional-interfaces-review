@@ -5,17 +5,14 @@ const Header = () => {
 		<header role="banner" class="flex-header">
 			<nav role="navigation">
 				<div class="top-nav" id="navbar-top">
-					<div class="skip-nav"> // TODO Determine what this is and whether it's necessary.
-						<a href="#skip-navbar-top" title="Skip navigation links">Skip navigation links</a>
-					</div>
 					<div class="about-language">
 						<div>
 							<strong>Review of java.util.function</strong>
 						</div>
 					</div>
 					<ul id="navbar-top-firstrow" class="nav-list" title="Navigation">
-						<li class="nav-bar-cell1-rev">Overview</li>
-						<li><a href="about.html">About</a></li> {/* TODO Implement useful links here.*/}
+						<li class="nav-bar-cell1-rev" id="nav-list-li-main"><Link to="/">Main</Link></li>
+						<li id="nav-list-li-about"><Link to="/about">About</Link></li>
 					</ul>
 				</div>
 				<div class="sub-nav">
