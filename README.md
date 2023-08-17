@@ -9,4 +9,8 @@ In Development
 
 ## To-do List
 - Develop an About page.
-- Extend the FilterableTable to accommodate arrays as values.
+
+## Future Ideas
+- Convert the array objects in FunctionalInterfaces to TypeScript objects.
+- Replace compound string values (e.g. "double,double") in the FunctionalInterfaces with arrays of unique values (e.g. \["double", "double"\].
+- Extend the FilterableTable to provide more modular filtering and sorting on the unique values of the above idea.

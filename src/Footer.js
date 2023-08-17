@@ -4,7 +4,7 @@ const Footer = () => {
 	return (
 		<footer role="contentinfo">
 			<hr />
-				<p class="legal-copy"><small>Daniel Parvin 2023</small></p>
+				<p class="legal-copy"><small>&copy; Daniel Parvin, 2023</small></p>
 		</footer>
 	)
 }

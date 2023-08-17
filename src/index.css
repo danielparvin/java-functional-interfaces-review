@@ -16,6 +16,7 @@ a[name]:before, a[name]:target, a[id]:before, a[id]:target {
 body {
   font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
   font-size: 14px;
+  line-height: normal;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -29,6 +30,11 @@ code {
 li {
 	display: list-item;
 	text-align: -webkit-match-parent;
+}
+
+thead {
+	background: #dee3e9;
+	font-weight: bold;
 }
 
 ul {
@@ -64,6 +70,15 @@ ul.nav-list li {
 	margin: 0 10px 5px 0;
 }
 
+.filterable-table {
+	width: 100%;
+	border-spacing: 0;
+	border-left: 1px solid #EEE;
+	border-right: 1px solid #EEE;
+	border-bottom: 1px solid #EEE;
+	padding: 0;
+}
+
 .flex-box {
     position: fixed;
     display: flex;
@@ -95,6 +110,11 @@ ul.nav-list li {
 	margin: auto 5px;
 }
 
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+	background-color: #4D7A97;
+	border-color: #4D7A97;
+}
+
 .skip-nav {
 	position: absolute;
 	top: auto;
@@ -110,8 +130,23 @@ ul.nav-list li {
 	font-size: 12px;
 }
 
+.table tbody tr:nth-child(odd) {
+	background-color: #EEEEEF;
+}
+
+.table tbody tr:nth-child(even) {
+	background-color: #FFFFFF;
+}
+
+.table-container nav {
+	text-align: center;
+}
+
 .title {
 	color: #2c4557;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: normal;
 	margin: 10px 0;
 }
 

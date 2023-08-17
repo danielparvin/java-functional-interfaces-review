@@ -4,9 +4,10 @@ import "./filterable-table.css";
 
 const fields = [
 	{name: "name", displayName: "Interface", sortable: true, inputFilterable: true},
-	//{inputs: "inputs", displayName: "Inputs", sortable: true},
-	{name: "method", displayName: "Method", sortable: true, exactFilterable: true}
-	//{primitiveSpecializationTypes: "primitiveSpecializationTypes", displayName: "Primitive Specialization Types"}
+	{name: "inputs", displayName: "Inputs", sortable: true, exactFilterable: true},
+	{name: "output", displayName: "Output", sortable: true, exactFilterable: true},
+	{name: "method", displayName: "Method", sortable: true, exactFilterable: true},
+	{name: "primitiveSpecializationTypes", displayName: "Primitive Specialization Types", sortable: true, exactFilterable: true}
 ]
 
 const Table = () => {
