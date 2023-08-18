@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/java-functional-interfaces-review/static/css/main.6887ef46.css",
-    "main.js": "/java-functional-interfaces-review/static/js/main.8ac993d7.js",
+    "main.js": "/java-functional-interfaces-review/static/js/main.6b07575e.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/java-functional-interfaces-review/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/DejaVuLGCSans.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSans.1f0fcbc2623ed203619f.woff",
     "static/media/DejaVuLGCSans-Bold.woff": "/java-functional-interfaces-review/static/media/DejaVuLGCSans-Bold.0efa2062cf6e193e9435.woff",
@@ -38,10 +38,10 @@
     "static/media/glyphicons-halflings-regular.woff2": "/java-functional-interfaces-review/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
     "index.html": "/java-functional-interfaces-review/index.html",
     "main.6887ef46.css.map": "/java-functional-interfaces-review/static/css/main.6887ef46.css.map",
-    "main.8ac993d7.js.map": "/java-functional-interfaces-review/static/js/main.8ac993d7.js.map"
+    "main.6b07575e.js.map": "/java-functional-interfaces-review/static/js/main.6b07575e.js.map"
   },
   "entrypoints": [
     "static/css/main.6887ef46.css",
-    "static/js/main.8ac993d7.js"
+    "static/js/main.6b07575e.js"
   ]
 }
