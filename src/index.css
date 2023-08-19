@@ -13,16 +13,18 @@ a[name]:before, a[name]:target, a[id]:before, a[id]:target {
 }
 
 body {
-  font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  line-height: normal;
-  margin: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: normal;
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+	background-color: inherit;
+	color: inherit;
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
 
